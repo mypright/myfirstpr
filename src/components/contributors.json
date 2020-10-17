@@ -35,6 +35,24 @@
     "quote": "Change things"
   },
   {
+    "github": "vnmrsharma",
+    "name": "Vinamra sharma",
+    "organization": "BTKIT",
+    "college": "BTKIT",
+    "avatar": "2994C3F2-9651-4FD6-BFED-E7CFDC292CB2.jpeg",
+    "city": "Haridwar",
+    "quote": "Be the change"
+  },
+  {
+    "github": "vaibhav15400",
+    "name": "Vaibhav Mishra",
+    "organization": "Student 3rd year",
+    "college": "BTKIT",
+    "avatar": "vaibhav.jpeg",
+    "city": "BANARASI",
+    "quote": "First PR Looks Cool"
+  },
+  {
     "github": "gurtejsingh2001",
     "name": "Gurtej Singh Talwar",
     "organization": "CU",
@@ -42,12 +60,13 @@
     "avatar": "gurtej2.png",
     "city": "Chandigarh",
   },
+  {
     "github": "Kriti7744",
     "name": "Kriti",
     "organization": "B.T. Kumaon Institute of Technology",
     "avatar": "Kriti.jpeg",
     "city": "Kashipur",
-    "quote": "Change things"
+    "quote": "Tackling life with a smile :)"
   },
   {
     "github": "maniSHarma7575",
@@ -77,20 +96,21 @@
   {
     "github": "Yakshit310",
     "name": "Yakshit Pant",
-    "college" : "Bipin Tripathi Kumaon Institute of Technology",
+    "college": "Bipin Tripathi Kumaon Institute of Technology",
     "avatar": "Yakshit.jpeg",
     "city": "Haldwani",
     "quote": "Change things"
-  },{
+  },
+  {
     "github": "shobhit-bhatt-14",
     "name": "Shobhit Bhatt",
     "organization": "Bipin Tripathi Kumaon Institute of Technology",
     "avatar": "shobhit.jpg",
-    "city": "Khatima",
+    "city": "Khatima"
   },
   {
     "github": "ANkurNagila",
-    "name": "ANkur ",
+    "name": "ANkur",
     "organization": "Thoughtworks",
     "avatar": "",
     "city": "Haldwani"
@@ -100,7 +120,7 @@
     "name": "Kaushal Pandey",
     "organization": "Replicon",
     "avatar": "Kaushal196.jpeg",
-    "city": "Bangalore",
+    "city": "Bangalore"
   },
   {
     "github": "mohdanash",
@@ -124,7 +144,7 @@
     "avatar": "IMG_20190916_082733_936.jpg",
     "city": "Dehradun"
   },
-   {
+  {
     "github": "akashpant",
     "name": "Akash Pant",
     "organization": "Student",
@@ -147,7 +167,7 @@
     "city": "Bangalore",
     "quote": "Change things"
   },
-   {
+  {
     "github": "Wraithh00",
     "name": "Gurpreet Singh",
     "organization": "Bipin Tripathi Kumaon Institute of Technology",
@@ -171,7 +191,7 @@
     "city": "Kotdwara",
     "quote": "Change things"
   },
-   {
+  {
     "github": "bitsapein",
     "name": "Shubham chaturvedi",
     "organization": "BTKIT, Dwarahat",
@@ -186,14 +206,14 @@
     "city": "Gorakhpur",
     "quote": "Practice and Practice"
   },
-    {
+  {
     "github": "bitsapien",
     "name": "Ashutoshu11",
     "organization": "Nil",
     "avatar": "Ashutoshu11.jpg",
     "city": "Patna",
     "quote": "Change things"
-    },
+  },
   {
     "github": "ayushbisht2001",
     "name": "Ayush Bisht",
@@ -205,13 +225,12 @@
   {
     "github": "ali-anas",
     "name": "Anas Ali",
-    "organization": "",
     "college": "BTKIT, Dwarahat",
     "avatar": "anas-img.png",
     "city": "Almora",
     "quote": "Wohooo"
   },
-   {
+  {
     "github": "Jaishree-19",
     "name": "Jaishree Tewari",
     "organization": "none",
