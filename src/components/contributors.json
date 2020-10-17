@@ -35,6 +35,23 @@
     "quote": "Change things"
   },
   {
+    "github": "Kriti7744",
+    "name": "Kriti",
+    "organization": "B.T. Kumaon Institute of Technology",
+    "avatar": "Kriti.jpeg",
+    "city": "Kashipur",
+    "quote": "Change things"
+  },
+  {
+    "github": "maniSHarma7575",
+    "name": "Manish Sharma",
+    "organization": "BTKIT Coding Club",
+    "college": "Bipin Tripathi Kumaon Institute of Technology",
+    "avatar": "manishsharma.jpeg",
+    "city": "Bhimtal, Nainital",
+    "quote": "Don't make me thing! Keep it simple"
+  },
+  {
     "github": "bitsapien",
     "name": "Rahul C",
     "organization": "Thoughtworks",
@@ -55,7 +72,28 @@
     "organization": "Replicon",
     "avatar": "Kaushal196.jpeg",
     "city": "Bangalore",
+  },
+  {
+    "github": "mohdanash",
+    "name": "Mohd Anas",
+    "organization": "BTKIT",
+    "avatar": "IMG_20180405_151727.jpg",
+    "city": "Bazpu",
     "quote": "Change things"
+  },
+  {
+    "github": "nitesh9390",
+    "name": "Nitesh Shahu",
+    "organization": "Student",
+    "avatar": "nitesh pic.JPG",
+    "city": "Rudrapur"
+  },
+  {
+    "github": "Divyanshu",
+    "name": "Divyanshu",
+    "organization": "Thoughtworks",
+    "avatar": "IMG_20190916_082733_936.jpg",
+    "city": "Dehradun"
   },
    {
     "github": "akashpant",
@@ -64,5 +102,36 @@
     "avatar": "1.jpeg",
     "city": "Bhimtal",
     "quote": "Change is the only Constant"
+  }
+  {
+    "github": "wannabecoder21",
+    "name": "Adeeba Shaheen",
+    "organization": "Student",
+    "city": "Pantnagar",
+    "quote": "Change is the only Constant"
+  },
+  {
+    "github": "Kaushal196",
+    "name": "Kaushal Pandey",
+    "organization": "Replicon",
+    "avatar": "Kaushal196.jpeg",
+    "city": "Bangalore",
+    "quote": "Change things"
+  }
+   {
+    "github": "Wraithh00",
+    "name": "Gurpreet Singh",
+    "organization": "Bipin Tripathi Kumaon Institute of Technology",
+    "avatar": "gurpreet.png",
+    "city": "Sitarganj",
+    "quote": "Change things"
+  }
+  {
+    "github": "DhavalPandey05",
+    "name": "Dhaval Pandey",
+    "organization": "BTKIT",
+    "avatar": "Dhaval.jpg",
+    "city": "Ghaziabad",
+    "quote": "Be Happy"
   }
 ]
