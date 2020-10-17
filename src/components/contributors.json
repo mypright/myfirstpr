@@ -25,7 +25,6 @@
     "city": "Delhi",
     "quote": "Be water"
   },
- 
   {
     "github": "rukshanuddin",
     "name": "Rukshan Uddin",
@@ -43,7 +42,7 @@
     "city": "Hyderabad",
     "quote": "Change things"
   },
-    {
+  {
     "github": "mohdanash",
     "name": "Mohd Anas",
     "organization": "BTKIT",
