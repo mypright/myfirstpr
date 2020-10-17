@@ -35,6 +35,7 @@
     "quote": "Change things"
   },
   {
+
     "github": "vnmrsharma",
     "name": "Vinamra sharma",
     "organization": "BTKIT",
@@ -42,5 +43,29 @@
     "avatar": "2994C3F2-9651-4FD6-BFED-E7CFDC292CB2.jpeg",
     "city": "Haridwar",
     "quote": "Be the change"
+=======
+    "github": "bitsapien",
+    "name": "Rahul C",
+    "organization": "Thoughtworks",
+    "avatar": "rahul.png",
+    "city": "Hyderabad",
+    "quote": "Change things"
+  },
+  {
+    "github": "Kaushal196",
+    "name": "Kaushal Pandey",
+    "organization": "Replicon",
+    "avatar": "Kaushal196.jpeg",
+    "city": "Bangalore",
+    "quote": "Change things"
+  },
+   {
+    "github": "akashpant",
+    "name": "Akash Pant",
+    "organization": "Student",
+    "avatar": "1.jpeg",
+    "city": "Bhimtal",
+    "quote": "Change is the only Constant"
+
   }
 ]
