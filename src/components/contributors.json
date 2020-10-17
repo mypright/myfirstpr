@@ -25,6 +25,7 @@
     "city": "Delhi",
     "quote": "Be water"
   },
+ 
   {
     "github": "rukshanuddin",
     "name": "Rukshan Uddin",
@@ -40,6 +41,14 @@
     "organization": "Thoughtworks",
     "avatar": "rahul.png",
     "city": "Hyderabad",
+    "quote": "Change things"
+  },
+    {
+    "github": "bitsapien",
+    "name": "Mohd Anas",
+    "organization": "anshu.py",
+    "avatar": "anas.jpg",
+    "city": "Bazpu",
     "quote": "Change things"
   }
 ]
