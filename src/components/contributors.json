@@ -42,14 +42,16 @@
     "avatar": "vaibhav.jpeg",
     "city": "BANARASI",
     "quote": "First PR Looks Cool"
-  },{
+  },
+  {
     "github": "gurtejsingh2001",
     "name": "Gurtej Singh Talwar",
     "organization": "CU",
     "college": "",
     "avatar": "rukshanuddin.JPG",
-    "city": "Chandigarh",
+    "city": "Chandigarh"
   },
+  {
     "github": "Kriti7744",
     "name": "Kriti",
     "organization": "B.T. Kumaon Institute of Technology",
@@ -85,16 +87,17 @@
   {
     "github": "Yakshit310",
     "name": "Yakshit Pant",
-    "college" : "Bipin Tripathi Kumaon Institute of Technology",
+    "college": "Bipin Tripathi Kumaon Institute of Technology",
     "avatar": "Yakshit.jpeg",
     "city": "Haldwani",
     "quote": "Change things"
-  },{
+  },
+  {
     "github": "shobhit-bhatt-14",
     "name": "Shobhit Bhatt",
     "organization": "Bipin Tripathi Kumaon Institute of Technology",
     "avatar": "shobhit.jpg",
-    "city": "Khatima",
+    "city": "Khatima"
   },
   {
     "github": "ANkurNagila",
@@ -108,7 +111,7 @@
     "name": "Kaushal Pandey",
     "organization": "Replicon",
     "avatar": "Kaushal196.jpeg",
-    "city": "Bangalore",
+    "city": "Bangalore"
   },
   {
     "github": "mohdanash",
@@ -132,7 +135,7 @@
     "avatar": "IMG_20190916_082733_936.jpg",
     "city": "Dehradun"
   },
-   {
+  {
     "github": "akashpant",
     "name": "Akash Pant",
     "organization": "Student",
@@ -155,7 +158,7 @@
     "city": "Bangalore",
     "quote": "Change things"
   },
-   {
+  {
     "github": "Wraithh00",
     "name": "Gurpreet Singh",
     "organization": "Bipin Tripathi Kumaon Institute of Technology",
@@ -179,7 +182,7 @@
     "city": "Kotdwara",
     "quote": "Change things"
   },
-   {
+  {
     "github": "bitsapein",
     "name": "Shubham chaturvedi",
     "organization": "BTKIT, Dwarahat",
@@ -194,14 +197,14 @@
     "city": "Gorakhpur",
     "quote": "Practice and Practice"
   },
-    {
+  {
     "github": "bitsapien",
     "name": "Ashutoshu11",
     "organization": "Nil",
     "avatar": "Ashutoshu11.jpg",
     "city": "Patna",
     "quote": "Change things"
-    },
+  },
   {
     "github": "ayushbisht2001",
     "name": "Ayush Bisht",
@@ -219,7 +222,7 @@
     "city": "Almora",
     "quote": "Wohooo"
   },
-   {
+  {
     "github": "Jaishree-19",
     "name": "Jaishree Tewari",
     "organization": "none",
