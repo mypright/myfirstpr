@@ -7,13 +7,13 @@ import CardMedia from "@material-ui/core/CardMedia";
 const NAMESPACE = "/myfirstpr";
 
 interface Contributor {
-  avatar?: string;
-  city?: string;
-  college?: string;
-  github: string;
-  name: string;
-  organization?: string;
-  quote: string;
+  avatar?: string | undefined;
+  city?: string | undefined;
+  college?: string | undefined;
+  github?: string | undefined;
+  name?: string | undefined;
+  organization?: string | undefined;
+  quote?: string | undefined;
 }
 
 const useStyles = makeStyles((theme: Theme) =>
@@ -34,7 +34,7 @@ const useStyles = makeStyles((theme: Theme) =>
   })
 );
 
-const openGithubProfile = (username: string) => {
+const openGithubProfile = (username: string | undefined) => {
   window.open(`https://github.com/${username}`, "_blank");
 };
 
