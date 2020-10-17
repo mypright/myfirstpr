@@ -42,5 +42,13 @@
     "avatar": "manishsharma.jpeg",
     "city": "Bhimtal, Nainital",
     "quote": "Don't make me thing! Keep it simple"
+  },
+  {
+    "github": "bitsapien",
+    "name": "Rahul C",
+    "organization": "Thoughtworks",
+    "avatar": "rahul.png",
+    "city": "Hyderabad",
+    "quote": "Change things"
   }
 ]
