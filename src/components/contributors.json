@@ -42,14 +42,6 @@
     "city": "Hyderabad",
     "quote": "Change things"
   },
-  {
-    "github": "Kaushal196",
-    "name": "Kaushal Pandey",
-    "organization": "Replicon",
-    "avatar": "Kaushal196.jpeg",
-    "city": "Bangalore",
-    "quote": "Change things"
-  },
    {
     "github": "akashpant",
     "name": "Akash Pant",
@@ -57,5 +49,20 @@
     "avatar": "1.jpeg",
     "city": "Bhimtal",
     "quote": "Change is the only Constant"
+  }
+  {
+    "github": "wannabecoder21",
+    "name": "Adeeba Shaheen",
+    "organization": "Student",
+    "city": "Pantnagar",
+    "quote": "Change is the only Constant"
+  },
+  {
+    "github": "Kaushal196",
+    "name": "Kaushal Pandey",
+    "organization": "Replicon",
+    "avatar": "Kaushal196.jpeg",
+    "city": "Bangalore",
+    "quote": "Change things"
   }
 ]
