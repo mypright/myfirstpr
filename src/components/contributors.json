@@ -60,20 +60,28 @@
     "quote": "Change things"
   },
   {
-
+    "github": "prashantpandey9",
+    "name": "Prashant Pandey",
+    "organization": "BTKIT",
+    "avatar": "circle-cropped.png",
+    "city": "Ranikhet",
+    "quote": "Believe in Yourself!!"
+  },
+  {
     "github": "Yakshit310",
     "name": "Yakshit Pant",
     "college" : "Bipin Tripathi Kumaon Institute of Technology",
     "avatar": "Yakshit.jpeg",
     "city": "Haldwani",
     "quote": "Change things"
-
+  },{
     "github": "shobhit-bhatt-14",
     "name": "Shobhit Bhatt",
     "organization": "Bipin Tripathi Kumaon Institute of Technology",
     "avatar": "shobhit.jpg",
     "city": "Khatima",
-
+  },
+  {
     "github": "ANkurNagila",
     "name": "ANkur ",
     "organization": "Thoughtworks",
@@ -116,7 +124,7 @@
     "avatar": "1.jpeg",
     "city": "Bhimtal",
     "quote": "Change is the only Constant"
-  }
+  },
   {
     "github": "wannabecoder21",
     "name": "Adeeba Shaheen",
@@ -131,7 +139,7 @@
     "avatar": "Kaushal196.jpeg",
     "city": "Bangalore",
     "quote": "Change things"
-  }
+  },
    {
     "github": "Wraithh00",
     "name": "Gurpreet Singh",
@@ -139,7 +147,7 @@
     "avatar": "gurpreet.png",
     "city": "Sitarganj",
     "quote": "Change things"
-  }
+  },
   {
     "github": "DhavalPandey05",
     "name": "Dhaval Pandey",
@@ -147,7 +155,7 @@
     "avatar": "Dhaval.jpg",
     "city": "Ghaziabad",
     "quote": "Be Happy"
-  }
+  },
   {
     "github": "ChAmPiOn49",
     "name": "Shivam Bhadula",
@@ -155,14 +163,14 @@
     "college": "B.T. Kumaon Institute of Technology",
     "city": "Kotdwara",
     "quote": "Change things"
-  }
+  },
    {
     "github": "bitsapein",
     "name": "Shubham chaturvedi",
     "organization": "BTKIT, Dwarahat",
     "city": "Haldwani",
     "quote": "Change things"
-  }
+  },
   {
     "github": "mdwaqaransari",
     "name": "Waqar Ansari",
@@ -170,7 +178,7 @@
     "avatar": "waqar.jpg",
     "city": "Gorakhpur",
     "quote": "Practice and Practice"
-  }
+  },
     {
     "github": "bitsapien",
     "name": "Ashutoshu11",
@@ -178,15 +186,15 @@
     "avatar": "Ashutoshu11.jpg",
     "city": "Patna",
     "quote": "Change things"
-  }
-  ,  {
+    },
+  {
     "github": "ayushbisht2001",
     "name": "Ayush Bisht",
     "organization": "Bipin Tripathi Kumaon Institute of technology",
     "avatar": "AyushBisht.jpg",
     "city": "Kotdwara",
     "quote": "Talk is cheap , show me the code"
-  }
+  },
   {
     "github": "ali-anas",
     "name": "Anas Ali",
@@ -195,7 +203,7 @@
     "avatar": "anas-img.png",
     "city": "Almora",
     "quote": "Wohooo"
-  }
+  },
    {
     "github": "Jaishree-19",
     "name": "Jaishree Tewari",
@@ -203,7 +211,7 @@
     "avatar": "DSC_1170.jpg",
     "city": "Nainital",
     "quote": "Better an oops,than a what if!"
-  }
+  },
   {
     "github": "skandraturi",
     "name": "Skand Raturi",
