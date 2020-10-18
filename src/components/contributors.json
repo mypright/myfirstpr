@@ -41,5 +41,13 @@
     "avatar": "rahul.png",
     "city": "Hyderabad",
     "quote": "Change things"
+  },
+  {
+    "github": "suraj-negi",
+    "name": "Suraj Singh Negi",
+    "organization": "BTKIT",
+    "avatar": "surajnegi.jpg"
+    "city": "haldwani"
+    "quote": "small changes brings big differences"
   }
 ]
