@@ -86,6 +86,14 @@
     "quote": "Change things"
   },
   {
+    "github": "suraj-negi",
+    "name": "Suraj Singh Negi",
+    "organization": "BTKIT",
+    "avatar": "surajnegi.jpg",
+    "city": "haldwani",
+    "quote": "small changes brings big differences"
+  },
+  {
     "github": "prashantpandey9",
     "name": "Prashant Pandey",
     "organization": "BTKIT",
@@ -254,5 +262,14 @@
     "avatar": "harsh.jpg",
     "city": "Bhimtal",
     "quote": "Fix the cause, not the symptom."
+  },
+  {
+    "github": "Gujjar1998",
+    "name": "Deepak kumar",
+    "organization": "None",
+    "college": "BTKIT",
+    "avatar": "",
+    "city": "Roorkee",
+    "quote": "be brave"
   }
 ]
