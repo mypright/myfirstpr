@@ -86,6 +86,22 @@
     "quote": "Change things"
   },
   {
+    "github": "mathpalvipin",
+    "name": "Vipin Mathpal",
+    "organization": "Macco Robotics",
+    "avatar": "vipin.jpeg",
+    "city": "Hisar",
+    "quote": "You aRe ImPorTant"
+  },
+  {
+    "github": "suraj-negi",
+    "name": "Suraj Singh Negi",
+    "organization": "BTKIT",
+    "avatar": "surajnegi.jpg",
+    "city": "haldwani",
+    "quote": "small changes brings big differences"
+  },
+  {
     "github": "prashantpandey9",
     "name": "Prashant Pandey",
     "organization": "BTKIT",
@@ -254,5 +270,22 @@
     "avatar": "hsingh.jpg",
     "city": "New Delhi",
     "quote": "Programming isn't about what you know; it's about what you can figure out."
-  }  
+  },
+  {
+    "github": "Harsh-Vrdhn",
+    "name": "Harsh Vardhan",
+    "college": "BTKIT, Dwarahat",
+    "avatar": "harsh.jpg",
+    "city": "Bhimtal",
+    "quote": "Fix the cause, not the symptom."
+  },
+  {
+    "github": "Gujjar1998",
+    "name": "Deepak kumar",
+    "organization": "None",
+    "college": "BTKIT",
+    "avatar": "",
+    "city": "Roorkee",
+    "quote": "be brave"
+  }
 ]
