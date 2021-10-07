@@ -25,10 +25,13 @@ const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     cardRoot: {
       display: "flex",
+      flexDirection: 'row'
     },
     cardDetails: {
-      display: "flex",
-      flexDirection: "column",
+      width: "500px"
+    },
+    description: {
+      maxWidth: '360px'
     },
     cardContent: {
       flex: "1 0 auto",
@@ -67,7 +70,7 @@ export default function ContributorCard(props: Contributor) {
             </Typography>
           )}
           {props.quote && (
-            <Typography variant="subtitle2" color="textSecondary">
+            <Typography className={classes.description} variant="subtitle2" color="textSecondary">
               {`- "${props.quote}"`}
             </Typography>
           )}
