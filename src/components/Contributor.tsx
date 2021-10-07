@@ -1,9 +1,14 @@
 import React from "react";
-import { createStyles, Theme, makeStyles } from "@material-ui/core/styles";
-import Typography from "@material-ui/core/Typography";
-import Card from "@material-ui/core/Card";
-import CardContent from "@material-ui/core/CardContent";
-import CardMedia from "@material-ui/core/CardMedia";
+import { 
+  Typography, 
+  Card, 
+  CardContent, 
+  CardMedia, 
+  createStyles, 
+  Theme, 
+  makeStyles
+ } from "@material-ui/core";
+
 const NAMESPACE = "/myfirstpr";
 
 interface Contributor {
