@@ -24,8 +24,8 @@ export default function Dashboard() {
 
   return (
     <List className={classes.root}>
-      {contributors.map((contributor) => (
-        <ListItem className={classes.listItem}>
+      {contributors.map((contributor, int) => (
+        <ListItem className={classes.listItem} key={int}>
           <ContributorCard {...contributor} />
         </ListItem>
       ))}
