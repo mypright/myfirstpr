@@ -1,11 +1,11 @@
 import React from "react";
-import { createStyles, Theme, makeStyles } from "@material-ui/core/styles";
+import { createStyles, makeStyles } from "@material-ui/core/styles";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
-import contributors from "./contributors.json";
 import ContributorCard from "./Contributor";
+import useContributors from './useContributors';
 
-const useStyles = makeStyles((theme: Theme) =>
+const useStyles = makeStyles(() =>
   createStyles({
     root: {
       width: "100%",
@@ -21,11 +21,15 @@ const useStyles = makeStyles((theme: Theme) =>
 
 export default function Dashboard() {
   const classes = useStyles();
+  const contributors = useContributors();
+  if (!contributors) {
+      return null;
+  }
 
   return (
     <List className={classes.root}>
       {contributors.map((contributor) => (
-        <ListItem className={classes.listItem}>
+        <ListItem key={Math.random()} className={classes.listItem}>
           <ContributorCard {...contributor} />
         </ListItem>
       ))}
